@@ -2,6 +2,7 @@
 
 간단한 할 일 관리(ToDo List) 웹 애플리케이션입니다.  
 React와 Tailwind CSS를 사용하여 만들었으며, 사용자가 할 일을 추가, 수정, 삭제할 수 있습니다.
+![Todo List Preview](https://github.com/user-attachments/assets/01d59b03-78c0-4e2a-bd2c-31fa6609794c))
 
 ## 🔥 주요 기능
 - ✅ **할 일 추가**: 입력창에 내용을 입력하고 추가 가능
